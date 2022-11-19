@@ -19,6 +19,7 @@ softdepend:
     - Essentials
     - Factions
     - GriefPrevention
+    - ItemsAdder
     - Jobs
     - LibsDisguises
     - LuckPerms
